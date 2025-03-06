@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hi there! 👋  
 
+I'm **Manaswi**, a Computer Science and Data Science senior at **UW-Madison**.  
+
+I am fascinated by **large-scale machine learning systems**, with a strong focus on **computer vision, data management, and analytics**. I love working on **real-world applications** that bridge the gap between AI research and practical implementation. 
+
+Beyond work, I am deeply interested in the **intersection of AI and creativity** exploring **game design, development and AI in gaming**.
+
+
+### 📬 Let's Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/manaswikolani/)  
+📧 **Email:** [kolani@wisc.edu](mailto:kolani@wisc.edu)  
 <!--
 **ManaswiKolani/ManaswiKolani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

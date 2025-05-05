@@ -7,7 +7,7 @@
 
 ---
 
-I’m passionate about building large-scale machine learning systems that go beyond theory and power a real-world impact. My work centers around computer vision, data management, and analytics, where I enjoy creating applications that bridge the gap between AI research and practical, everyday use.
+I’m passionate about building machine learning systems that go beyond theory and power a real-world impact. My work centers around computer vision, data management, and analytics, where I enjoy creating applications that bridge the gap between AI research and practical, everyday use.
 
 Beyond that, I’m fascinated by the intersection of AI and creativity, especially in game design and development. I love exploring how intelligent systems can shape immersive experiences, dynamic storytelling, and interactive worlds.
 

@@ -9,24 +9,54 @@ I am fascinated by **large-scale machine learning systems**, with a strong focus
 
 Beyond work, I am deeply interested in **domain-specific use cases of AI** and **intersection of AI and creativity** exploring **game design, development, and AI in gaming**.
 
-### 🧰 Languages & Tools I Use
+### 🛠️ Languages & Tools I Use
 
-#### 💻 Programming Languages
-🐍 Python &nbsp; | &nbsp; 📊 R &nbsp; | &nbsp; ☕ Java &nbsp; | &nbsp; 🌐 JavaScript  
-🧱 HTML & CSS &nbsp; | &nbsp; 🐘 SQL &nbsp; | &nbsp; ⚙️ C, C++
+<div align="center">
 
-#### 🚀 Frameworks & Libraries
-🧠 PyTorch &nbsp; | &nbsp; 🔬 TensorFlow &nbsp; | &nbsp; 📦 Tidyverse &nbsp; | &nbsp; 📈 Shiny
+<table>
+  <tr>
+    <th>💻 Languages</th>
+    <th>🚀 Frameworks & Libraries</th>
+    <th>🛠️ Tools</th>
+    <th>🎮 Game Engines</th>
+  </tr>
+  <tr>
+    <td>
+      🐍 Python <br>
+      📊 R <br>
+      ☕ Java <br>
+      🌐 JavaScript <br>
+      🧱 HTML & CSS <br>
+      🐘 SQL <br>
+      ⚙️ C, C++
+    </td>
+    <td>
+      🧠 PyTorch <br>
+      🔬 TensorFlow <br>
+      📦 Tidyverse <br>
+      📈 Shiny
+    </td>
+    <td>
+      🐙 Git & GitHub <br>
+      🐳 Docker <br>
+      🗄️ MongoDB <br>
+      ❄️ Snowflake <br>
+      🔎 Elasticsearch <br>
+      📊 Kibana <br>
+      🛰️ Kafka <br>
+      🧮 Hadoop <br>
+      🐾 Cassandra <br>
+      📊 Excel, 🖼️ PowerPoint, 📬 Outlook
+    </td>
+    <td>
+      🕹️ Unity <br>
+      🔥 Unreal Engine
+    </td>
+  </tr>
+</table>
 
-#### 🛠️ DevOps & Tools
-🐙 Git & GitHub &nbsp; | &nbsp; 🐳 Docker &nbsp; | &nbsp; 🗄️ MongoDB &nbsp; | &nbsp; ❄️ Snowflake  
-🔎 ElasticSearch & Kibana &nbsp; | &nbsp; 🛰️ Kafka &nbsp; | &nbsp; 🧮 Hadoop &nbsp; | &nbsp; 🐾 Cassandra  
+</div>
 
-#### 📊 Productivity & Office
-📊 Excel &nbsp; | &nbsp; 🖼️ PowerPoint &nbsp; | &nbsp; 📬 Outlook  
-
-#### 🎮 Game Engines
-🕹️ Unity &nbsp; | &nbsp; 🔥 Unreal Engine
 
 
 

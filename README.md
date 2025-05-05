@@ -1,6 +1,20 @@
-## Hi there! 👋  
+## Hi there 👋😄
 
-I'm **Manaswi**, a Computer Science and Data Science senior at **UW-Madison**.  
+🌱 I'm Manaswi, a senior at the University of Wisconsin - Madison.   
+🔭 Majors: Computer Science, Data Science 
+
+---
+
+### 📊 GitHub Stats
+
+![Manaswi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManaswiKolani&show_icons=true&theme=radical)
+
+---
+
+### 🔥 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManaswiKolani&layout=compact&theme=radical)
+  
 
 I am fascinated by **large-scale machine learning systems**, with a strong focus on **computer vision, data management, and analytics**. I love working on **real-world applications** that bridge the gap between AI research and practical implementation. 
 

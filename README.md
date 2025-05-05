@@ -1,4 +1,4 @@
-## Hi there 👋😄 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NsNmZrcWtpdG1tbnJ3Y3B2aGw5aWJ0dm43anp4aXJjcXNmM3BzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wKWxuUOcp9fdvckBty/giphy.gif" width="50" alt="AI thinking gif" />
+## Hi there 👋😄 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWw0cWNxMGFtdHpzODY1eG9mdTAyYXRkczFxYXB4cTJteGM2bHFiaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mPQerpfa41Wdffq40W/giphy.gif" width="50" alt="AI thinking gif" />
 
 🌱 I'm Manaswi, a senior at the University of Wisconsin - Madison.   
 🔭 Majors: Computer Science, Data Science 

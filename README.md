@@ -36,7 +36,8 @@ Beyond that, I’m fascinated by the intersection of AI and creativity, especial
       PyTorch <br>
       TensorFlow <br>
       Tidyverse <br>
-      Shiny
+      Shiny <br>
+      OpenCV
     </td>
     <td>
       Git & GitHub <br>
@@ -58,7 +59,6 @@ Beyond that, I’m fascinated by the intersection of AI and creativity, especial
 </table>
 
 </div>
-
 
 
 

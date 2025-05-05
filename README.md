@@ -22,40 +22,41 @@ Beyond work, I am deeply interested in **domain-specific use cases of AI** and *
   </tr>
   <tr>
     <td>
-      🐍 Python <br>
-      📊 R <br>
-      ☕ Java <br>
-      🌐 JavaScript <br>
-      🧱 HTML & CSS <br>
-      🐘 SQL <br>
-      ⚙️ C, C++
+      Python <br>
+      R <br>
+      Java <br>
+      JavaScript <br>
+      HTML & CSS <br>
+      SQL <br>
+      C, C++
     </td>
     <td>
-      🧠 PyTorch <br>
-      🔬 TensorFlow <br>
-      📦 Tidyverse <br>
-      📈 Shiny
+      PyTorch <br>
+      TensorFlow <br>
+      Tidyverse <br>
+      Shiny
     </td>
     <td>
-      🐙 Git & GitHub <br>
-      🐳 Docker <br>
-      🗄️ MongoDB <br>
-      ❄️ Snowflake <br>
-      🔎 Elasticsearch <br>
-      📊 Kibana <br>
-      🛰️ Kafka <br>
-      🧮 Hadoop <br>
-      🐾 Cassandra <br>
-      📊 Excel, 🖼️ PowerPoint, 📬 Outlook
+      Git & GitHub <br>
+      Docker <br>
+      MongoDB <br>
+      Snowflake <br>
+      Elasticsearch <br>
+      Kibana <br>
+      Kafka <br>
+      Hadoop <br>
+      Cassandra <br>
+      Excel, PowerPoint, Outlook
     </td>
     <td>
-      🕹️ Unity <br>
-      🔥 Unreal Engine
+      Unity <br>
+      Unreal Engine
     </td>
   </tr>
 </table>
 
 </div>
+
 
 
 

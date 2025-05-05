@@ -1,13 +1,15 @@
 ## Hi there 👋😄
 
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NsNmZrcWtpdG1tbnJ3Y3B2aGw5aWJ0dm43anp4aXJjcXNmM3BzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wKWxuUOcp9fdvckBty/giphy.gif" width="400" alt="AI thinking gif" />
+
 🌱 I'm Manaswi, a senior at the University of Wisconsin - Madison.   
 🔭 Majors: Computer Science, Data Science 
 
 ---
 
-I am fascinated by **large-scale machine learning systems**, with a strong focus on **computer vision, data management, and analytics**. I love working on **real-world applications** that bridge the gap between AI research and practical implementation. 
+I’m passionate about building large-scale machine learning systems that go beyond theory and power a real-world impact. My work centers around computer vision, data management, and analytics, where I enjoy creating applications that bridge the gap between AI research and practical, everyday use.
 
-Beyond work, I am deeply interested in **domain-specific use cases of AI** and **intersection of AI and creativity** exploring **game design, development, and AI in gaming**.
+Beyond that, I’m fascinated by the intersection of AI and creativity, especially in game design and development. I love exploring how intelligent systems can shape immersive experiences, dynamic storytelling, and interactive worlds.
 
 ### 🛠️ Languages & Tools I Use
 

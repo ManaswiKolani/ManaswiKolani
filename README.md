@@ -37,7 +37,13 @@ Beyond that, I’m fascinated by the intersection of AI and creativity, especial
       TensorFlow <br>
       Tidyverse <br>
       Shiny <br>
-      OpenCV
+      OpenCV <br>
+      pandas <br>
+      NumPy <br>
+      matplotlib <br>
+      seaborn <br>
+      scikit-learn <br>
+      PySpark
     </td>
     <td>
       Git & GitHub <br>
@@ -59,6 +65,7 @@ Beyond that, I’m fascinated by the intersection of AI and creativity, especial
 </table>
 
 </div>
+
 
 
 

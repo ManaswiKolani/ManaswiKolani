@@ -2,7 +2,7 @@
 
 
 
-🌱 I'm Manaswi, a recent University of Wisconsin–Madison graduate.
+🌱 I'm Manaswi, a recent University of Wisconsin–Madison graduate.  
 🎓 B.S. in Computer Science and Data Science
 
 ---

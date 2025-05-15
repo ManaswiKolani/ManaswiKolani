@@ -2,8 +2,8 @@
 
 
 
-🌱 I'm Manaswi, a senior at the University of Wisconsin - Madison.   
-🔭 Majors: Computer Science, Data Science 
+🌱 I'm Manaswi, a recent University of Wisconsin–Madison graduate.
+🎓 B.S. in Computer Science and Data Science
 
 ---
 

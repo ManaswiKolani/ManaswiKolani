@@ -8,7 +8,7 @@
 ---
 
 I'm passionate about building distributed systems and machine learning infrastructure that powers real-world impact. My work spans data engineering, big data systems, and AI/ML, where I focus on creating solutions that bridge the gap between technology and practical applications. I love exploring how creativity can illustrate data and discovering AI applications across diverse domains.  
-Beyond that, I’m fascinated by the intersection of AI and creativity, especially in art, game design, and development. I love exploring how intelligent systems can shape immersive experiences, dynamic storytelling, and interactive worlds.
+Beyond that, I’m fascinated by the intersection of AI and art, especially in game design and development. I love exploring how intelligent systems can shape immersive experiences, dynamic storytelling, and interactive worlds.
 
 ### 🛠️ Languages & Tools I Use
 

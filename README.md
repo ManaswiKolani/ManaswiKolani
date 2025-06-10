@@ -7,9 +7,8 @@
 
 ---
 
-I’m passionate about building machine learning systems that go beyond theory and power a real-world impact. My work centers around computer vision, data management, and analytics, where I enjoy creating applications that bridge the gap between AI research and practical, everyday use.
-
-Beyond that, I’m fascinated by the intersection of AI and creativity, especially in game design and development. I love exploring how intelligent systems can shape immersive experiences, dynamic storytelling, and interactive worlds.
+I'm passionate about building distributed systems and machine learning infrastructure that powers real-world impact. My work spans data engineering, big data systems, and AI/ML, where I focus on creating solutions that bridge the gap between technology and practical applications. I love exploring how creativity can illustrate data and discovering AI applications across diverse domains.  
+Beyond that, I’m fascinated by the intersection of AI and creativity, especially in art, game design, and development. I love exploring how intelligent systems can shape immersive experiences, dynamic storytelling, and interactive worlds.
 
 ### 🛠️ Languages & Tools I Use
 
@@ -27,7 +26,6 @@ Beyond that, I’m fascinated by the intersection of AI and creativity, especial
       Python <br>
       R <br>
       Java <br>
-      JavaScript <br>
       HTML & CSS <br>
       SQL <br>
       C, C++
@@ -43,7 +41,9 @@ Beyond that, I’m fascinated by the intersection of AI and creativity, especial
       matplotlib <br>
       seaborn <br>
       scikit-learn <br>
-      PySpark
+      LibRosa <br>
+      PySpark <br>
+      Pygame
     </td>
     <td>
       Git & GitHub <br>
@@ -58,7 +58,6 @@ Beyond that, I’m fascinated by the intersection of AI and creativity, especial
       Excel, PowerPoint, Outlook
     </td>
     <td>
-      Unity <br>
       Unreal Engine
     </td>
   </tr>
@@ -72,7 +71,7 @@ Beyond that, I’m fascinated by the intersection of AI and creativity, especial
 
 ### 📬 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/manaswikolani/)  
-📧 **Email:** [kolani@wisc.edu](mailto:kolani@wisc.edu)  
+📧 **Email:** [kolani@wisc.edu](mailto:kolanimanaswi@gmail.com)  
 <!--
 **ManaswiKolani/ManaswiKolani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

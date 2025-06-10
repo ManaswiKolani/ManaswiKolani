@@ -70,8 +70,7 @@ Beyond that, I’m fascinated by the intersection of AI and creativity, especial
 
 
 ### 📬 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/manaswikolani/)  
-📧 **Email:** [kolani@wisc.edu](mailto:kolanimanaswi@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/manaswikolani/)   
 <!--
 **ManaswiKolani/ManaswiKolani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

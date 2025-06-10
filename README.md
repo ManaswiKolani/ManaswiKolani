@@ -19,7 +19,7 @@ Beyond that, I’m fascinated by the intersection of AI and creativity, especial
     <th>💻 Languages</th>
     <th>🚀 Frameworks & Libraries</th>
     <th>🛠️ Tools</th>
-    <th>🎮 Game Engines</th>
+    <th>🎮 Other</th>
   </tr>
   <tr>
     <td>

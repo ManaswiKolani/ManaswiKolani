@@ -26,7 +26,6 @@ Beyond that, I’m fascinated by the intersection of AI and art, especially in g
       Python <br>
       R <br>
       Java <br>
-      HTML & CSS <br>
       SQL <br>
       C, C++
     </td>
@@ -37,9 +36,6 @@ Beyond that, I’m fascinated by the intersection of AI and art, especially in g
       Shiny <br>
       OpenCV <br>
       pandas <br>
-      NumPy <br>
-      matplotlib <br>
-      seaborn <br>
       scikit-learn <br>
       LibRosa <br>
       PySpark <br>
@@ -55,7 +51,6 @@ Beyond that, I’m fascinated by the intersection of AI and art, especially in g
       Kafka <br>
       Hadoop <br>
       Cassandra <br>
-      Excel, PowerPoint, Outlook
     </td>
     <td>
       Unreal Engine

@@ -7,7 +7,7 @@
 
 ---
 
-I'm passionate about building distributed systems and machine learning infrastructure that powers real-world impact. My work spans data engineering, big data systems, and AI/ML, where I focus on creating solutions that bridge the gap between technology and practical applications. I love exploring how creativity can illustrate data and discovering AI applications across diverse domains.  
+I'm passionate about building distributed systems and machine learning infrastructure that powers real-world impact. My work spans data engineering, big data systems, and AI/ML, where I focus on creating solutions that bridge the gap between technology and practical applications. I enjoy exploring how creativity can be used to illustrate data and discovering AI applications across various domains.  
 Beyond that, I’m fascinated by the intersection of AI and art, especially in game design and development. I love exploring how intelligent systems can shape immersive experiences, dynamic storytelling, and interactive worlds.
 
 ### 🛠️ Languages & Tools I Use
@@ -18,47 +18,53 @@ Beyond that, I’m fascinated by the intersection of AI and art, especially in g
   <tr>
     <th>💻 Languages</th>
     <th>🚀 Frameworks & Libraries</th>
-    <th>🛠️ Tools</th>
-    <th>🎮 Other</th>
+    <th>🛠️ Tools & Platforms</th>
+    <th>☁️ Cloud & Infra</th>
   </tr>
   <tr>
     <td>
       Python <br>
+      SQL <br>
       R <br>
       Java <br>
-      SQL <br>
       C, C++
     </td>
     <td>
-      PyTorch <br>
+      PySpark <br>
       TensorFlow <br>
+      PyTorch <br>
+      scikit-learn <br>
+      pandas <br>
       Tidyverse <br>
+      LibROSA <br>
       Shiny <br>
       OpenCV <br>
-      pandas <br>
-      scikit-learn <br>
-      LibRosa <br>
-      PySpark <br>
       Pygame
     </td>
     <td>
-      Git & GitHub <br>
-      Docker <br>
-      MongoDB <br>
-      Snowflake <br>
-      Elasticsearch <br>
-      Kibana <br>
+      Apache Spark <br>
+      Airflow <br>
       Kafka <br>
       Hadoop <br>
       Cassandra <br>
+      MongoDB <br>
+      Docker <br>
+      Git & GitHub <br>
+      Kibana <br>
+      Elasticsearch
     </td>
     <td>
-      Unreal Engine
+      DataBricks <br>
+      AWS S3 <br>
+      Redshift
     </td>
   </tr>
 </table>
 
 </div>
+
+
+---
 
 
 

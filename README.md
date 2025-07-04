@@ -36,7 +36,6 @@ Beyond that, I’m fascinated by the intersection of AI and art, especially in g
       scikit-learn <br>
       pandas <br>
       Tidyverse <br>
-      LibROSA <br>
       Shiny <br>
       OpenCV <br>
       Pygame

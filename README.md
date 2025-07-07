@@ -7,7 +7,7 @@
 
 ---
 
-Driven by a fascination with data’s hidden patterns, I craft systems that transform raw information into meaningful insights. With a focus on data engineering, big data, and AI/ML, I build solutions that connect tech to real-world impact. I enjoy exploring how creativity can be used to illustrate data and discovering AI applications across various domains.  
+Driven by a fascination with data’s hidden patterns, I enjoy crafting systems that transform raw information into meaningful insights. With a focus on data engineering, big data, and AI/ML, I build solutions that connect tech to real-world impact. I enjoy exploring how creativity can be used to illustrate data and discover AI applications across various domains.  
 Beyond that, I’m fascinated by the intersection of AI and art, especially in game design and development. I love exploring how intelligent systems can shape immersive experiences, dynamic storytelling, and interactive worlds.
 
 ### 🛠️ Languages & Tools I Use

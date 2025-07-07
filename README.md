@@ -52,7 +52,8 @@ Beyond that, I’m fascinated by the intersection of AI and art, especially in g
     <td>
       AWS S3 <br>
       AWS Redshift <br>
-      AWS Glue
+      AWS Glue <br>
+      Databricks
     </td>
   </tr>
 </table>

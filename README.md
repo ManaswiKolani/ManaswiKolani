@@ -37,8 +37,6 @@ Beyond that, I’m fascinated by the intersection of AI and art, especially in g
       pandas <br>
       Tidyverse <br>
       Shiny <br>
-      OpenCV <br>
-      Pygame
     </td>
     <td>
       Apache Spark <br>
@@ -49,13 +47,12 @@ Beyond that, I’m fascinated by the intersection of AI and art, especially in g
       MongoDB <br>
       Docker <br>
       Git & GitHub <br>
-      Kibana <br>
       Elasticsearch
     </td>
     <td>
-      DataBricks <br>
       AWS S3 <br>
-      Redshift
+      AWS Redshift <br>
+      AWS Glue
     </td>
   </tr>
 </table>

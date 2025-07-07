@@ -61,12 +61,6 @@ Beyond that, I’m fascinated by the intersection of AI and art, especially in g
 </div>
 
 
----
-
-
-
-
-
 ### 📬 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/manaswikolani/)   
 <!--

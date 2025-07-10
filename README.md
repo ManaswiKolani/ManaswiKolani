@@ -50,9 +50,7 @@ Beyond that, I’m fascinated by the intersection of AI and art, especially in g
       Elasticsearch
     </td>
     <td>
-      AWS S3 <br>
-      AWS Redshift <br>
-      AWS Glue <br>
+      AWS
       Databricks
     </td>
   </tr>

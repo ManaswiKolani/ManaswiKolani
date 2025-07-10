@@ -50,7 +50,7 @@ Beyond that, I’m fascinated by the intersection of AI and art, especially in g
       Elasticsearch
     </td>
     <td>
-      AWS
+      AWS <br>
       Databricks
     </td>
   </tr>

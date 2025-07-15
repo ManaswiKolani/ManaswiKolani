@@ -4,10 +4,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=40&pause=1000&color=e6add2&width=435&lines=Hi%20there!%20I'm%20Manaswi&center=true&vCenter=true&repeat=true" alt="Typing SVG" />
 </div>
 
+<div>
 
+Data Engineer | Data Analyst | AI/ML
+
+</div>
 ---
 
-I enjoy crafting systems that transform raw information into meaningful insights. With a focus on data engineering, big data, and AI/ML, I build solutions that connect tech to real-world impact. I enjoy exploring how creativity can be used to illustrate data and discover AI applications across various domains.  
+
+I enjoy crafting systems that transform raw information into meaningful insights. With a focus on data engineering, big data, and AI/ML, I build solutions that connect tech to real-world impact. I enjoy exploring how creativity can be leveraged to illustrate data and discover AI applications across various domains.  
 Beyond that, I’m fascinated by the intersection of AI and art, especially in game design and development. I love exploring how intelligent systems can shape immersive experiences, dynamic storytelling, and interactive worlds.
 
 ### 🛠️ Languages & Tools I Use
@@ -60,19 +65,21 @@ Beyond that, I’m fascinated by the intersection of AI and art, especially in g
 
 ---
 
-## **📊 Analytics & Statistics**
-
 <div align="center">
 
 <table>
 <tr>
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManaswiKolani&layout=compact&theme=tokyo&hide_border=true&card_width=400" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManaswiKolani&layout=compact&theme=dracula&hide_border=true&card_width=400" alt="Most Used Languages" />
 
 </td>
 </tr>
 </table>
+
+</div>
+
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ManaswiKolani&theme=dracula" alt="Contribution Graph" /></div>
 
 ---
 

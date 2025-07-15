@@ -68,15 +68,11 @@ Beyond that, I’m fascinated by the intersection of AI and art, especially in g
 <tr>
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManaswiKolani&layout=compact&theme=dracula&hide_border=true&card_width=400" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManaswiKolani&layout=compact&theme=tokyo&hide_border=true&card_width=400" alt="Most Used Languages" />
 
 </td>
 </tr>
 </table>
-
-</div>
-
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ManaswiKolani&theme=dracula" alt="Contribution Graph" /></div>
 
 ---
 

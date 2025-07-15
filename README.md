@@ -64,21 +64,6 @@ Beyond that, I’m fascinated by the intersection of AI and art, especially in g
 
 </div>
 
----
-
-<div>
-
-<table>
-<tr>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManaswiKolani&layout=compact&theme=dracula&hide_border=true&card_width=50" alt="Most Used Languages" />
-
-</td>
-</tr>
-</table>
-
----
 
 ### 📬 Let's Connect!  
 <p align="left">

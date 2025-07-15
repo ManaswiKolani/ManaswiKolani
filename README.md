@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <h1>
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWw0cWNxMGFtdHpzODY1eG9mdTAyYXRkczFxYXB4cTJteGM2bHFiaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mPQerpfa41Wdffq40W/giphy.gif" width="50" alt="frog" /> 
     Hi there! I'm Manaswi <br>
@@ -6,7 +6,7 @@
   </h1>
 </div>
 
-<div align="center">
+<div align="left">
 I enjoy crafting systems that transform raw information into meaningful insights. With a focus on data engineering, big data, and AI/ML, I build solutions that connect tech to real-world impact. I enjoy exploring how creativity can be leveraged to illustrate data and discover AI applications across various domains.  
 Beyond that, I’m fascinated by the intersection of AI and art, especially in game design and development. I love exploring how intelligent systems can shape immersive experiences, dynamic storytelling, and interactive worlds.
 </div>

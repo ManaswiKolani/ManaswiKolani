@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&size=32&pause=1000&color=3e703f&width=435&lines=Hi%20there!%20I'm%20Manaswi%20&center=true&vCenter=true&repeat=false)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&size=40&pause=1000&color=ee58a1&width=435&lines=Hi%20there!%20I'm%20Manaswi%20&center=true&vCenter=true&repeat=false)
 
 </div>
 

@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWw0cWNxMGFtdHpzODY1eG9mdTAyYXRkczFxYXB4cTJteGM2bHFiaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mPQerpfa41Wdffq40W/giphy.gif" width="80" alt="AI thinking gif" />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=30&pause=1000&color=e6add2&width=435&lines=Hi%20there!%20I'm%20Manaswi&center=true&vCenter=true&repeat=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=40&pause=1000&color=e6add2&width=435&lines=Hi%20there!%20I'm%20Manaswi&center=true&vCenter=true&repeat=true" alt="Typing SVG" />
 </div>
 
 

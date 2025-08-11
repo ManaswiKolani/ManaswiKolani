@@ -40,15 +40,16 @@ Beyond that, I’m fascinated by the intersection of AI and art, especially in g
       Shiny <br>
     </td>
     <td>
-      Apache Spark <br>
+      Spark <br>
       Airflow <br>
-      Kafka <br>
-      Hadoop <br>
-      Cassandra <br>
       MongoDB <br>
+      MSSQL <br>
+      Elasticsearch <br>
       Docker <br>
-      Git & GitHub <br>
-      Elasticsearch
+      Kafka <br>
+      DBT <br>
+      Cassandra <br>
+      Git & GitHub
     </td>
     <td>
       AWS

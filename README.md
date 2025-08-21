@@ -11,7 +11,7 @@
 </div>
 
 
-I enjoy working on systems that transform raw information into meaningful insights. With a focus on data engineering, big data, and AI/ML, I build applications that connect tech to real-world impact. I enjoy exploring how creativity can be leveraged to illustrate data and discover AI applications across various domains.  
+I enjoy working on systems that extract value and insight from raw information. With a focus on data management, big data, and AI/ML, I build software that translates tech into everyday impact. I enjoy exploring how creativity can be leveraged to illustrate data and discover AI applications across various domains.  
 Beyond that, I’m fascinated by the intersection of AI and art, especially in game design and development. I love exploring how intelligent systems can shape immersive experiences, dynamic storytelling, and interactive worlds.
 
 
@@ -35,11 +35,9 @@ Beyond that, I’m fascinated by the intersection of AI and art, especially in g
       C, C++
     </td>
     <td>
-      PySpark <br>
       TensorFlow <br>
       PyTorch <br>
       scikit-learn <br>
-      pandas <br>
       Tidyverse <br>
       Shiny <br>
     </td>
@@ -47,7 +45,7 @@ Beyond that, I’m fascinated by the intersection of AI and art, especially in g
       Spark <br>
       Airflow <br>
       MongoDB <br>
-      MSSQL <br>
+      MSSQL, MySQL, PSQL <br>
       Elasticsearch <br>
       Docker <br>
       Kafka <br>

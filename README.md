@@ -2,18 +2,12 @@
   <h1>
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWw0cWNxMGFtdHpzODY1eG9mdTAyYXRkczFxYXB4cTJteGM2bHFiaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mPQerpfa41Wdffq40W/giphy.gif" width="60" alt="frog" /> 
     Hi there! I'm Manaswi <br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=15&pause=1000&color=e6add2&width=435&lines=Data%20Engineer%20%7C%20AI%2FML%20%7C%20AWS&center=true&vCenter=true&repeat=true" alt="Typing SVG" />
-
-
-
-
+    <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=15&pause=1000&color=e6add2&width=435&lines=Data%20Engineer%20%7C%20AI%2FML%20%7C%20AWS&center=true&vCenter=true&repeat=true" alt="Typing SVG" />
   </h1>
 </div>
 
-
 I enjoy working on systems that extract value and insight from raw information. With a focus on data management, big data, and AI/ML, I build software that translates tech into everyday impact. I enjoy exploring how creativity can be leveraged to illustrate data and discover AI applications across various domains.  
 Beyond that, I’m fascinated by the intersection of AI and art, especially in game design and development. I love exploring how intelligent systems can shape immersive experiences, dynamic storytelling, and interactive worlds.
-
 
 ### 🛠️ Languages & Tools I Use
 
@@ -61,28 +55,14 @@ Beyond that, I’m fascinated by the intersection of AI and art, especially in g
 
 </div>
 
+### 🎓 Certifications
+
+<div align="center">
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="080d2c02-533a-4b04-b840-7986607666d0" data-share-badge-host="https://www.credly.com"></div>
+  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+</div>
 
 ### 📬 Let's Connect!  
 <p align="left">
   <a href="https://www.linkedin.com/in/manaswikolani/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
-
----
-
-
-
-<!--
-**ManaswiKolani/ManaswiKolani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

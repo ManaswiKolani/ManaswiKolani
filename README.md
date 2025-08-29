@@ -57,10 +57,7 @@ Beyond that, I’m fascinated by the intersection of AI and art, especially in g
 
 ### 🎓 Certifications
 
-<div align="center">
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="080d2c02-533a-4b04-b840-7986607666d0" data-share-badge-host="https://www.credly.com"></div>
-  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-</div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="080d2c02-533a-4b04-b840-7986607666d0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ### 📬 Let's Connect!  
 <p align="left">

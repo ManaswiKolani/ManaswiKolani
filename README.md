@@ -56,12 +56,17 @@ Beyond that, I’m fascinated by the intersection of AI and art, especially in g
 
 </div>
 
-### 🎓 Certifications
+### 🎓 Licenses & Certifications
 <div align="left">
   <a href="https://www.credly.com/badges/080d2c02-533a-4b04-b840-7986607666d0" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="95"/>
   </a>
+
+  <a href="https://coursera.org/share/6641612952a7843d8d8567ae665d73a4" target="_blank">
+    <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/aa/8c402f6db511e5b14c32d949bb02b7/SupervisedML.png?auto=format%2Ccompress&dpr=1&w=120&h=120" alt="Supervised Machine Learning: Regression and Classification" width="95"/>
+  </a>
 </div>
+
 
 ### 📬 Let's Connect!  
 <p align="left">

@@ -2,7 +2,7 @@
   <h1>
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWw0cWNxMGFtdHpzODY1eG9mdTAyYXRkczFxYXB4cTJteGM2bHFiaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mPQerpfa41Wdffq40W/giphy.gif" width="60" alt="frog" /> 
     Hi there! I'm Manaswi <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=15&pause=1000&color=e6add2&width=435&lines=Data%20Engineer%20%7C%20AI%2FML%20%7C%20AWS&center=true&vCenter=true&repeat=true" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=15&pause=1000&color=e6add2&width=435&lines=Backend%20&%20Data%20Engineer%20%7C%20AI%2FML%20%7C%20AWS&center=true&vCenter=true&repeat=true" alt="Typing SVG" />
   </h1>
 </div>
 

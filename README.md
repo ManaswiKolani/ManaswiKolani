@@ -63,7 +63,7 @@ Beyond that, I’m fascinated by the intersection of AI and art, especially in g
   </a>
 
   <a href="https://coursera.org/share/6641612952a7843d8d8567ae665d73a4" target="_blank">
-    <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/aa/8c402f6db511e5b14c32d949bb02b7/SupervisedML.png?auto=format%2Ccompress&dpr=1&w=120&h=120" alt="Supervised Machine Learning: Regression and Classification" width="95"/>
+    <img src="[https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/aa/8c402f6db511e5b14c32d949bb02b7/SupervisedML.png?auto=format%2Ccompress&dpr=1&w=120&h=120](https://www.coursera.org/account/accomplishments/certificate/GS67PUNCRTQ2)" alt="Supervised Machine Learning: Regression and Classification" width="95"/>
   </a>
 </div>
 

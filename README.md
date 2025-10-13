@@ -53,9 +53,8 @@ Outside the technical realm, I enjoy exploring the creative side of data, experi
       gRPC & REST APIs
     </td>
     <td align="center">
-      AWS (S3, Glue, Lambda, Redshift, EC2) <br>
-      Azure AI & Cosmos DB <br>
-      Airbyte <br>
+      AWS <br>
+      Azure AI Studio<br>
       Git & GitHub
     </td>
   </tr>

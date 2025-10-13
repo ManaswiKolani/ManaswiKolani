@@ -7,8 +7,8 @@
   </h1>
 </div>
 
-I enjoy working on systems that extract value and insight from raw information. With a focus on data management, big data, and AI/ML, I build software that translates tech into everyday impact. I enjoy exploring how creativity can be leveraged to illustrate data and discover AI applications across various domains.  
-Beyond that, I’m fascinated by the intersection of AI and art, especially in game design and development. I love exploring how intelligent systems can shape immersive experiences, dynamic storytelling, and interactive worlds.
+I design systems that give structure and motion to data, turning scattered information into engines for analysis and discovery. My work focuses on building scalable data architectures, orchestrating efficient pipelines, and developing tools that enable data to communicate clearly and reliably. I’m particularly interested in how large-scale data processing and machine learning can evolve from abstract models into systems that shape real decisions and experiences.  
+Outside the technical realm, I enjoy exploring the creative side of data, experimenting with visualization, interaction, and the role of AI in art, storytelling, and design.  
 
 ### 🛠️ Languages & Tools I Use
 
@@ -16,40 +16,48 @@ Beyond that, I’m fascinated by the intersection of AI and art, especially in g
 
 <table>
   <tr>
-    <th>💻 Languages</th>
-    <th>🚀 Frameworks & Libraries</th>
-    <th>🛠️ Tools & Platforms</th>
-    <th>☁️ Cloud & Infra</th>
+    <th>⚙️ Programming Languages</th>
+    <th>🔎 Data & ML Frameworks</th>
+    <th>🔧 Data Engineering Tools</th>
+    <th>☁️ Cloud & Infrastructure</th>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       Python <br>
       SQL <br>
-      R <br>
       Java <br>
+      R <br>
       C, C++
     </td>
-    <td>
+    <td align="center">
       TensorFlow <br>
       PyTorch <br>
       scikit-learn <br>
-      R Tidyverse <br>
+      NumPy & Pandas <br>
+      Matplotlib <br>
       R Shiny <br>
+      Tidyverse <br>
+      Power BI
     </td>
-    <td>
-      Spark <br>
-      Airflow <br>
-      MongoDB <br>
-      MSSQL, MySQL, PSQL <br>
-      Elasticsearch <br>
-      Docker <br>
-      Kafka <br>
+    <td align="center">
+      Apache Spark <br>
+      Apache Airflow <br>
       DBT <br>
+      Snowflake <br>
+      Databricks <br>
+      Kafka <br>
+      Docker <br>
       Cassandra <br>
-      Git & GitHub
+      MongoDB <br>
+      MSSQL / MySQL / PostgreSQL <br>
+      ElasticSearch <br>
+      gRPC & REST APIs
     </td>
-    <td>
-      AWS
+    <td align="center">
+      AWS (S3, Glue, Lambda, Redshift, EC2) <br>
+      Azure AI & Cosmos DB <br>
+      Airbyte <br>
+      Git & GitHub
     </td>
   </tr>
 </table>
@@ -57,11 +65,35 @@ Beyond that, I’m fascinated by the intersection of AI and art, especially in g
 </div>
 
 ### 🎓 Licenses & Certifications
-<div align="left">
-  <a href="https://www.credly.com/badges/080d2c02-533a-4b04-b840-7986607666d0" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="95"/>
-  </a>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://www.credly.com/badges/080d2c02-533a-4b04-b840-7986607666d0" target="_blank">
+        <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="95"/><br>
+        <sub><b>AWS Certified Cloud Practitioner</b></sub><br>
+        <sub>Amazon Web Services (AWS)</sub>
+      </a>
+    </td>
+    <td align="center" width="250">
+      <a href="https://coursera.org/share/6641612952a7843d8d8567ae665d73a4" target="_blank">
+        <sub><b>Supervised Machine Learning: Regression and Classification</b></sub><br>
+        <sub>Deeplearning.ai & Stanford Online</sub>
+      </a>
+    </td>
+    <td align="center" width="250">
+      <a href="#" target="_blank">
+        <sub><b>Data Engineering Specialization</b></sub><br>
+        <sub>Deeplearning.ai & AWS</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 </div>
+
 
 
 ### 📬 Let's Connect!  

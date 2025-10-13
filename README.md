@@ -67,21 +67,13 @@ Outside the technical realm, I enjoy exploring the creative side of data, experi
 ### 🎓 Licenses & Certifications
 
 <div align="left">
-
-- <a href="https://www.credly.com/badges/080d2c02-533a-4b04-b840-7986607666d0" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="65" align="right"/>
-  <b>AWS Certified Cloud Practitioner</b> — Amazon Web Services (AWS)
-  </a><br>
-
-- <a href="https://coursera.org/share/6641612952a7843d8d8567ae665d73a4" target="_blank">
-  <b>Supervised Machine Learning: Regression and Classification</b> — Deeplearning.ai & Stanford Online
-  </a><br>
-
-- <a href="#" target="_blank">
-  <b>Data Engineering Specialization</b> — Deeplearning.ai & AWS
+  <a href="https://www.credly.com/badges/080d2c02-533a-4b04-b840-7986607666d0" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="85"/>
   </a>
-
 </div>
+
+- [Supervised Machine Learning: Regression and Classification](https://coursera.org/share/6641612952a7843d8d8567ae665d73a4) — Deeplearning.ai & Stanford Online  
+- Data Engineering Specialization — Deeplearning.ai & AWS
 
 
 

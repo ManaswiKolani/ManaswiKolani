@@ -33,8 +33,8 @@ Beyond that, I’m fascinated by the intersection of AI and art, especially in g
       TensorFlow <br>
       PyTorch <br>
       scikit-learn <br>
-      Tidyverse <br>
-      Shiny <br>
+      R Tidyverse <br>
+      R Shiny <br>
     </td>
     <td>
       Spark <br>

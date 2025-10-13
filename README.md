@@ -26,8 +26,7 @@ Outside the technical realm, I enjoy exploring the creative side of data, experi
       Python <br>
       SQL <br>
       Java <br>
-      R <br>
-      C, C++
+      R
     </td>
     <td align="center">
       TensorFlow <br>

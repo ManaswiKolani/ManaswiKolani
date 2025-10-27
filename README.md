@@ -7,8 +7,11 @@
   </h1>
 </div>
 
-I design systems that give structure and motion to data, turning scattered information into engines for analysis and discovery. My work focuses on building scalable data architectures, orchestrating efficient pipelines, and developing tools that enable data to communicate clearly and reliably. I’m particularly interested in how large-scale data processing and machine learning can evolve from abstract models into systems that shape real decisions and experiences.  
-Outside the technical realm, I enjoy exploring the creative side of data, experimenting with visualization, interaction, and the role of AI in art, storytelling, and design.  
+I build systems that treat data as an active component. My work focuses on the foundations of practical AI: pipelines that move information with intent, distributed platforms that keep models accountable to reality, and interfaces where algorithms engage with the world. I work with large-scale processing, language models, and emerging agent frameworks where AI operates with context and purpose.
+
+I value clarity and traceable reasoning. Data should travel cleanly from collection to decision, without confusion or guesswork.
+
+I also explore the expressive side of computation. Visualization, interaction, and generative techniques let me treat data as a creative material.
 
 ### 🛠️ Languages & Tools I Use
 

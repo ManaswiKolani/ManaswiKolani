@@ -7,7 +7,7 @@
   </h1>
 </div>
 
-I'm fascinated by the challenge of making AI systems practical, reliable, and useful. I love digging into the "how" by building the full-stack systems that bridge the gap between a cool concept and a dependable, real-world tool.
+I'm fascinated by the challenge of making AI systems practical, reliable, and useful. I love building full-stack systems that bridge the gap between a cool concept and a dependable, real-world tool.
 
 My work generally focuses on three areas:
 

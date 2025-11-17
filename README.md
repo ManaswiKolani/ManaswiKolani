@@ -38,9 +38,7 @@ When I'm not focused on that, I love exploring the creative side of code through
       R
     </td>
     <td align="center">
-      TensorFlow <br>
       PyTorch <br>
-      scikit-learn <br>
       NumPy & Pandas <br>
       Matplotlib <br>
       R Shiny <br>
@@ -55,16 +53,11 @@ When I'm not focused on that, I love exploring the creative side of code through
       Databricks <br>
       Kafka <br>
       Docker <br>
-      Cassandra <br>
       MongoDB <br>
-      MSSQL / MySQL / PostgreSQL <br>
-      ElasticSearch <br>
-      gRPC & REST APIs
+      ElasticSearch
     </td>
     <td align="center">
-      AWS <br>
-      Azure AI Studio<br>
-      Git & GitHub
+      AWS 
     </td>
   </tr>
 </table>

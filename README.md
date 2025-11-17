@@ -7,11 +7,17 @@
   </h1>
 </div>
 
-I build systems that treat data as an active component. My work focuses on the foundations of practical AI: pipelines that move information with intent, distributed platforms that keep models accountable to reality, and interfaces where algorithms engage with the world. I work with large-scale processing, language models, and emerging agent frameworks where AI operates with context and purpose.
+I'm fascinated by the challenge of making AI systems practical, reliable, and useful. I love digging into the "how" by building the full-stack systems that bridge the gap between a cool concept and a dependable, real-world tool.
 
-I value clarity and traceable reasoning. Data should travel cleanly from collection to decision, without confusion or guesswork.
+My work generally focuses on three areas:
 
-I also explore the expressive side of computation. Visualization, interaction, and generative techniques let me treat data as a creative material.
+**Scalable Systems**: Engineering the resilient, fault-tolerant data foundations that AI needs to function at scale.
+
+**Language Interpretation**: Moving beyond static knowledge to build agents that can actively source and reason over live, complex data.
+
+**Autonomous Action**: Exploring how to get multi-agent systems to plan, collaborate, and recover from failure to solve complex problems.
+
+When I'm not focused on that, I love exploring the creative side of code through art, games, and the interaction between art and technology.
 
 ### 🛠️ Languages & Tools I Use
 

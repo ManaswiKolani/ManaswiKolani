@@ -19,51 +19,6 @@ My work generally focuses on three areas:
 
 When I'm not focused on that, I love exploring the creative side of code through art, games, and the interaction between art and technology.
 
-### 🛠️ Languages & Tools I Use
-
-<div align="center">
-
-<table>
-  <tr>
-    <th>⚙️ Programming Languages</th>
-    <th>🔎 Data & ML Frameworks</th>
-    <th>🔧 Data Engineering Tools</th>
-    <th>☁️ Cloud & Infrastructure</th>
-  </tr>
-  <tr>
-    <td align="center">
-      Python <br>
-      SQL <br>
-      Java <br>
-      R
-    </td>
-    <td align="center">
-      PyTorch <br>
-      NumPy & Pandas <br>
-      Matplotlib <br>
-      R Shiny <br>
-      Tidyverse <br>
-      Power BI
-    </td>
-    <td align="center">
-      Apache Spark <br>
-      Apache Airflow <br>
-      DBT <br>
-      Snowflake <br>
-      Databricks <br>
-      Kafka <br>
-      Docker <br>
-      MongoDB <br>
-      ElasticSearch
-    </td>
-    <td align="center">
-      AWS 
-    </td>
-  </tr>
-</table>
-
-</div>
-
 ### 🎓 Licenses & Certifications
 
 <div align="left">

@@ -1,29 +1,49 @@
 <div align="center">
   <h1>
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWw0cWNxMGFtdHpzODY1eG9mdTAyYXRkczFxYXB4cTJteGM2bHFiaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mPQerpfa41Wdffq40W/giphy.gif" width="60" alt="frog" /> 
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWw0cWNxMGFtdHpzODY1eG9mdTAyYXRkczFxYXB4cTJteGM2bHFiaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mPQerpfa41Wdffq40W/giphy.gif" width="60" alt="frog" />
     Hi there! I'm Manaswi <br>
     <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=15&pause=1000&color=e6add2&width=435&lines=AI%20Engineer%20%7C%20Forward%20Deployed%20Systems%20%7C%20AWS&center=true&vCenter=true&repeat=true" alt="Typing SVG" />
   </h1>
 </div>
 
-I enjoy building practical AI systems that solve messy, real-world problems.
+## Building practical AI systems
 
-Most of my work sits at the intersection of **AI engineering**, **forward deployed systems**, and **rapid product iteration** — taking ideas from rough concepts to tools people can actually rely on.
+I enjoy building products where AI actually makes work easier.
 
-I like working in small teams with ambitious goals, where I can take ownership, move quickly, prototype fast, and iterate directly from feedback.
+Most of my experience sits at the intersection of **AI engineering**, **forward deployed problem solving**, and **shipping quickly**. I like taking messy workflows, understanding where people get blocked, and building systems that reduce manual effort instead of adding complexity.
 
-My work generally focuses on three areas:
+I work best in small teams with ambitious goals, tight feedback loops, and lots of ownership. I enjoy rapidly prototyping, getting something into people’s hands quickly, learning what breaks, and iterating from there.
 
-**AI Systems & Automation**  
-Building systems that simplify manual workflows by integrating AI into existing products and operational processes — from multi-agent workflows to retrieval systems and intelligent automation.
+<br>
 
-**Forward Deployed Engineering**  
-Working closely with stakeholders to rapidly prototype, test, and refine solutions in fast feedback loops, turning ambiguous problems into production-ready tools.
+## What I like building
 
-**Reliable AI Infrastructure**  
-Engineering backend systems that make AI dependable in practice — orchestration, retrieval pipelines, APIs, structured outputs, observability, and scalable data systems.
+### AI systems for real workflows
 
-Outside of work, I enjoy exploring the creative side of technology through games, generative systems, and the intersection of code, design, and art.
+I’m especially interested in integrating AI into existing systems rather than building isolated demos.
+
+That usually means things like:
+
+- Multi-agent workflows  
+- Retrieval systems (RAG) and live information pipelines  
+- Internal tools that reduce repetitive work  
+- AI-powered automation that people can actually depend on
+
+### Forward deployed engineering
+
+I enjoy working close to users and stakeholders.
+Understanding the problem, prototyping fast, adapting to feedback, and owning the implementation end-to-end is the kind of work I naturally gravitate toward.
+
+### Systems that are reliable
+
+I care about making AI useful in practice, not just impressive in demos.
+Backend systems, orchestration, APIs, structured outputs, observability, retrieval pipelines, and infrastructure that make AI systems dependable at scale are all things I enjoy working on.
+
+<br>
+
+## Beyond work
+
+Outside of engineering, I enjoy exploring the more creative side of technology through games, generative systems, digital art, and the interaction between code and design.
 
 ### 🎓 Licenses & Certifications
 
@@ -37,7 +57,9 @@ Outside of work, I enjoy exploring the creative side of technology through games
 - [Supervised Machine Learning: Regression and Classification](https://coursera.org/share/6641612952a7843d8d8567ae665d73a4) — Deeplearning.ai & Stanford Online  
 - Data Engineering Professional — Deeplearning.ai × AWS
 
-### 📬 Let's Connect!
+<br>
+
+## 📬 Let's Connect!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/manaswikolani/" target="_blank">
